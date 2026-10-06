@@ -289,7 +289,8 @@ with tab_hist:
         db_clear(); st.rerun()
 
 with tab_logic:
-    st.markdown("""
+    st.markdown
+    """
 **Pipeline:** `File events → sliding window → indicators → risk score → alert → containment → incident DB`
 
 | Indicator (per host, last *N* seconds) | Max weight |
@@ -308,4 +309,4 @@ suspicious extensions, so it stays at Medium instead of Critical – a false-pos
 
 **Ideas to extend:** map alerts to MITRE ATT&CK (T1486 Data Encrypted for Impact, T1490 Inhibit
 System Recovery), add per-process baselining, honeypot "canary" files, and email/Slack alerting.
-""")
+"""
