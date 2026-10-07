@@ -5,8 +5,9 @@ A **safe** blue-team project that simulates file-system activity, detects ransom
 > ⚠️ **Safety disclaimer:** This is a *simulator*, not ransomware. All file events are generated in memory. No real files are read, modified, renamed, or encrypted. It is built for learning, detection engineering practice, and portfolio demonstration.
 
 ## 🎛️ Dashboard
+![Dashboard](<Screenshot 2026-10-08 015139.png>)
 
-
+![Dashboard](<Screenshot 2026-10-08 015208.png>)
 
 ---
 
