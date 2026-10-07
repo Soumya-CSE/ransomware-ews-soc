@@ -4,7 +4,6 @@ no real files are read, modified or encrypted).
 
 Pipeline:  simulated file events -> sliding-window detector -> risk score
            -> alerts -> auto-containment (simulated) -> SQLite incident history
-Run:  streamlit run app.py
 """
 import random, sqlite3, time
 from collections import deque
