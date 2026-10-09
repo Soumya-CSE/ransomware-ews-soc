@@ -103,7 +103,6 @@ Then open the URL Streamlit prints (usually `http://localhost:8501`) and press *
 - **Raise the thresholds**: detection gets slower and more files are hit (sensitivity vs. speed).
 - **Lower them too far**: the backup burst starts triggering High or Critical (false positive).
 - **Turn off auto-contain**: the attack continues and the score stays near 100.
-- **Shorten the window**: the score reacts faster but becomes noisier.
 
 ---
 
