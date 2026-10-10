@@ -1,6 +1,6 @@
 # 🛡️ Ransomware Early-Warning Simulator
 
-A **safe** blue-team project that simulates file-system activity, detects ransomware-like behaviour in real time, scores the risk per host, raises alerts, simulates containment, and records everything in a live **SOC dashboard** with incident history.
+A **safe** Blue Team cybersecurity project that simulates file-system activity, detects ransomware-like behavior in real time, calculates risk scores for each host, generates security alerts, simulates threat containment, and monitors incidents through a live SOC dashboard with incident history.
 
 > ⚠️ **Safety disclaimer:** This is a *simulator*, not ransomware. All file events are generated in memory. No real files are read, modified, renamed, or encrypted. It is built for learning, detection engineering practice, and portfolio demonstration.
 
@@ -148,11 +148,6 @@ Python · Streamlit · Pandas · Plotly · SQLite
 
 ---
 
-## 📄 License
-
-Released under the MIT License. For educational and defensive security use only.
-
----
 
 ## 👤 Author
 
