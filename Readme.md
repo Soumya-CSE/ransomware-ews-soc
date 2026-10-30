@@ -148,7 +148,6 @@ Python · Streamlit · Pandas · Plotly · SQLite
 
 ---
 
-
 ## 👤 Author
 
 **Soumya Kanti Hazra**, B.Tech Computer Science Engineering student and aspiring SOC Analyst.
