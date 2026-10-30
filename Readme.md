@@ -151,3 +151,11 @@ Python · Streamlit · Pandas · Plotly · SQLite
 ## 👤 Author
 
 **Soumya Kanti Hazra**, B.Tech Computer Science Engineering student and aspiring SOC Analyst.
+
+---
+
+## ⭐ Support
+
+If you find this project interesting or useful, consider giving the repository a **star ⭐** on GitHub!
+
+*Built with Python, Streamlit, and a passion for smart home technology.*
