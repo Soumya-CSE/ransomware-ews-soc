@@ -135,7 +135,6 @@ ransomware-early-warning-simulator/
 - [ ] Monitor a real **test folder** with `watchdog` and feed events into the same detector
 - [ ] Ingest **Sysmon** events (Event ID 11 file create, 23 file delete)
 - [ ] Per-process and per-host **baselining** instead of fixed thresholds
-- [ ] **Canary / honeypot files** that alert on first touch
 - [ ] Email / Slack alert notifications
 - [ ] Detection of shadow-copy deletion (T1490)
 - [ ] Unit tests for the scoring function
