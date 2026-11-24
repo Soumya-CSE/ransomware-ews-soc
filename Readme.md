@@ -151,8 +151,6 @@ Python · Streamlit · Pandas · Plotly · SQLite
 
 **Soumya Kanti Hazra**, B.Tech Computer Science Engineering student and aspiring SOC Analyst.
 
----
-
 ## ⭐ Support
 
 If you find this project interesting or useful, consider giving the repository a **star ⭐** on GitHub!
